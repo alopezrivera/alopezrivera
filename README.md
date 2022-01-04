@@ -1,3 +1,3 @@
-TU Delft Aerospace Engineering.
+TU Delft Aerospace Engineering
 
 ✉️ antonlopezr99@gmail.com

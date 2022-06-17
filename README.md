@@ -4,7 +4,7 @@ Aerospace engineering bachelor and spaceflight dynamics graduate student at TU D
 
 # Projects
 
-### MPL Plotter(https://github.com/alopezrivera/mpl_plotter)** <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alopezrivera/mpl_plotter?style=social">
+### [MPL Plotter](https://github.com/alopezrivera/mpl_plotter) <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alopezrivera/mpl_plotter?style=social">
   
   Publication-quality data representation library based on Matplotlib.
 

@@ -31,4 +31,4 @@ Aerospace engineering bachelor and spaceflight dynamics graduate student at TU D
 - **[Stoich](https://github.com/alopezrivera/stoich)** Concise and simple stoichiometry library. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alopezrivera/stoich?style=social">
 
 
-- **[TU Delft AE Study Planner](https://github.com/alopezrivera/tudelft-ae-study-planner )** TU Delft Aerospace Engineering BSc GPA calculator and exam planner. Visualize your progress and plan your study. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alopezrivera/tudelft-ae-study-planner ?style=social">
+- **[TU Delft AE Study Planner](https://github.com/alopezrivera/tudelft-ae-study-planner )** TU Delft Aerospace Engineering BSc GPA calculator and exam planner. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alopezrivera/tudelft-ae-study-planner ?style=social">

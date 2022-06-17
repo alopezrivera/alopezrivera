@@ -1,4 +1,4 @@
-Aerospace engineering bachelor and spaceflight dynamics graduate student at TU Delft. Currently working for the Underactuated Robotics Laboratory of the DFKI Robotics Innovation Center.
+Spaceflight Dynamics MSc student at TU Delft. Currently working for the Underactuated Robotics Laboratory of the DFKI Robotics Innovation Center. Aerospace engineering BSc by TU Delft.
 
 ✉️ antonlopezr99@gmail.com
 

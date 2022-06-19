@@ -23,7 +23,7 @@ Spaceflight Dynamics MSc student at TU Delft. Currently working for the Underact
 - **[Emblem](https://github.com/alopezrivera/emblem)** shields.io + colormaps, from within Python. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alopezrivera/emblem?style=social">
 
 
-- **[Sift](https://github.com/alopezrivera/sift)** Drifting object tracking program for use in object retrieval or rescue missions. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alopezrivera/sift?style=social">
+- **[Sift](https://github.com/alopezrivera/sift)** Drifting object tracking program for use in search and rescue missions. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alopezrivera/sift?style=social">
 
 
 - **[MATMOS](https://github.com/alopezrivera/MATMOS)** Direct and inverse atmospheric model library. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alopezrivera/MATMOS?style=social">

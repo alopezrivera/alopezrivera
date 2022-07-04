@@ -11,7 +11,7 @@ Spaceflight Dynamics MSc student at TU Delft. Currently working for the Underact
   Open source, 0-dimensional, object-oriented airbreathing engine modelling package for preliminary analysis and design of airbreathing engines, divulgation and educational purposes. 
 
 
-- **[OWO](https://github.com/alopezrivera/owo)** Export your OneNote note collection to plain text. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alopezrivera/owo?style=social">
+- **[OneWayOut](https://github.com/alopezrivera/owo)** Export your OneNote note collection to plain text. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alopezrivera/owo?style=social">
 
 
 - **[Anchorage](https://github.com/alopezrivera/anchorage)** Python library and CLI to save your little corner of the internet. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alopezrivera/anchorage?style=social">

@@ -5,6 +5,7 @@ Spaceflight Dynamics MSc student at TU Delft. Currently working for the Underact
 ## Projects
 
 - **[mpl_plotter](https://github.com/alopezrivera/mpl_plotter)**
+  
   Publication-quality data representation library based on Matplotlib. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alopezrivera/mpl_plotter?style=social">
 
 

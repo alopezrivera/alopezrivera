@@ -4,7 +4,7 @@ Spaceflight Dynamics MSc student at TU Delft. Currently working for the Underact
 
 ## Projects
 
-### Scientific
+#### Scientific
 
 - **[MPL Plotter](https://github.com/alopezrivera/mpl_plotter)** Publication-quality data representation library based on Matplotlib. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alopezrivera/mpl_plotter?style=social">
 
@@ -21,7 +21,7 @@ Spaceflight Dynamics MSc student at TU Delft. Currently working for the Underact
 - **[Stoich](https://github.com/alopezrivera/stoich)** Concise and simple stoichiometry library. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alopezrivera/stoich?style=social">
 
 
-### Tools
+#### Tools
 
 
 - **[OneWayOut](https://github.com/alopezrivera/owo)** Export your OneNote note collection to plain text. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alopezrivera/owo?style=social">

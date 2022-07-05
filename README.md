@@ -27,7 +27,7 @@ Spaceflight Dynamics MSc student at TU Delft. Currently working for the Underact
 - **[OneWayOut](https://github.com/alopezrivera/owo)** Export your OneNote note collection to plain text. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alopezrivera/owo?style=social">
 
 
-- **[Anchorage](https://github.com/alopezrivera/anchorage)** Python library and CLI to save your little corner of the internet. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alopezrivera/anchorage?style=social">
+- **[Anchorage](https://github.com/alopezrivera/anchorage)** Save your bookmark collection in the Internet Archive, or locally. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alopezrivera/anchorage?style=social">
 
 
 - **[Emblem](https://github.com/alopezrivera/emblem)** shields.io + colormaps, from within Python. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alopezrivera/emblem?style=social">

@@ -41,5 +41,5 @@ Spaceflight Dynamics MSc student at TU Delft. Currently working for the Underact
 -----
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=alopezrivera&show_icons=true&bg_color=161320&text_color=D9E0ElE&icon_color=DDB6F2&title_color=96CDFB">
+  <img height="100" src="https://github-readme-stats.vercel.app/api?username=alopezrivera&show_icons=true&bg_color=161320&text_color=D9E0ElE&icon_color=DDB6F2&title_color=96CDFB">
 </p>

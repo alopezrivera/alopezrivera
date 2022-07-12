@@ -39,7 +39,3 @@ Spaceflight Dynamics MSc student at TU Delft. Currently working for the Underact
 - **[TU Delft AE Study Planner](https://github.com/alopezrivera/tudelft-ae-study-planner )** TU Delft Aerospace Engineering BSc GPA calculator and exam planner. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alopezrivera/tudelft-ae-study-planner ?style=social">
 
 -----
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=alopezrivera&show_icons=true&bg_color=161320&text_color=D9E0ElE&icon_color=DDB6F2&title_color=96CDFB">
-</p>

@@ -1,6 +1,6 @@
 Spaceflight Dynamics MSc student at TU Delft.
 
-✉️ antonlopezr99@gmail.com
+✉️ antonlopezr99 (gmail)
 
 ## Projects
 

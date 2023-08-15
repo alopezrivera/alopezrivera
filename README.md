@@ -34,9 +34,6 @@ Spaceflight Dynamics MSc student at TU Delft.
 - **[Anchorage](https://github.com/alopezrivera/anchorage)** Save your bookmark collection in the Internet Archive, or locally. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alopezrivera/anchorage?style=social">
 
 
-#### Other
-
-
 - **[Seaman Emacs](https://github.com/alopezrivera/Seaman-Emacs)** Literate, layer-based Emacs configuration framework. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alopezrivera/Seaman-Emacs ?style=social">
 
 

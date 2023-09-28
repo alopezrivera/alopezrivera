@@ -25,7 +25,7 @@ Spaceflight Dynamics MSc student at TU Delft.
 #### Programs
 
 
-- **[OneNote Exporter](https://github.com/alopezrivera/one)** Export your OneNote note collection to plain text. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alopezrivera/one?style=social">
+- **[OneNote Exporter](https://github.com/alopezrivera/OneNoteExporter)** Export your OneNote note collection to plain text. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alopezrivera/OneNoteExporter?style=social">
 
 
 - **[Anchorage](https://github.com/alopezrivera/anchorage)** Save your bookmark collection in the Internet Archive, or locally. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alopezrivera/anchorage?style=social">

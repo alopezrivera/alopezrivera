@@ -2,7 +2,7 @@ Spaceflight Dynamics MSc student at TU Delft.
 
 ✉️ antonlopezr99 (gmail)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alopezrivera&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=alopezrivera&show_icons=true&theme=transparent)
 
 ## Projects
 

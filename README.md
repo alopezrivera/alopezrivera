@@ -42,4 +42,6 @@ Spaceflight Dynamics MSc student at TU Delft.
 
 - **[TU Delft AE Study Planner](https://github.com/alopezrivera/tudelft-ae-study-planner )** TU Delft Aerospace Engineering BSc GPA calculator and exam planner. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alopezrivera/tudelft-ae-study-planner ?style=social">
 
+#### Stats
+
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=alopezrivera&rank_icon=percentile&show_icons=true&theme=transparent) ![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alopezrivera&layout=compact)

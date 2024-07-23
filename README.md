@@ -2,11 +2,11 @@ Spaceflight Dynamics MSc student at TU Delft.
 
 ✉️ antonlopezr99 (gmail)
 
-## Projects
-
-#### Open source contributions
+## Major projects I've contributed to
 
 - **[Tudat Space](https://docs.tudat.space/en/latest/)** State-of-the-art platform and community for astrodynamics and space research. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tudat-team/tudat?style=social">
+
+## Personal projects
 
 #### Libraries
 

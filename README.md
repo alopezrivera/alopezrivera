@@ -4,7 +4,7 @@ Spaceflight Dynamics MSc student at TU Delft.
 
 ### Major projects I've been involved in
 
-- **[Tudat Space](https://docs.tudat.space/en/latest/)** State-of-the-art platform and community for astrodynamics and space research. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tudat-team/tudat?style=social">
+- **[Tudat Space](https://docs.tudat.space/en/latest/)** State-of-the-art platform and community for astrodynamics and space research. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tudat-team/tudatpy?style=social">
 
 ### Personal projects
 

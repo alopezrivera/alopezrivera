@@ -2,9 +2,11 @@ Spaceflight Dynamics MSc student at TU Delft.
 
 ✉️ antonlopezr99 (gmail)
 
-#### Major projects to which I've contributed
+## Projects
 
-- **[Tudat Space](https://docs.tudat.space/en/latest/)** Tudat is a platform and community for astrodynamics and space research. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tudat-team/tudat?style=social">
+#### Open source contributions
+
+- **[Tudat Space](https://docs.tudat.space/en/latest/)** State-of-the-art platform and community for astrodynamics and space research. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tudat-team/tudat?style=social">
 
 #### Libraries
 
@@ -34,6 +36,9 @@ Spaceflight Dynamics MSc student at TU Delft.
 
 - **[Sift](https://github.com/alopezrivera/sift)** Drifting object tracking program for use in search and rescue missions. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alopezrivera/sift?style=social">
 
+#### LaTeX
+
+- **[IAC 2024 LaTeX template](https://github.com/alopezrivera/Seaman-Emacs)** Unofficial LaTeX template for the 2024 International Astronautics Conference. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alopezrivera/IAC-2024-latex-template ?style=social">
 
 #### Tools
 

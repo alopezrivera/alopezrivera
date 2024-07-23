@@ -38,7 +38,7 @@ Spaceflight Dynamics MSc student at TU Delft.
 
 #### LaTeX
 
-- **[IAC 2024 LaTeX template](https://github.com/alopezrivera/Seaman-Emacs)** Unofficial LaTeX template for the 2024 International Astronautics Conference. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alopezrivera/IAC-2024-latex-template ?style=social">
+- **[IAC 2024 LaTeX template](https://github.com/alopezrivera/IAC-2024-latex-template)** Unofficial LaTeX template for the 2024 International Astronautics Conference. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alopezrivera/IAC-2024-latex-template ?style=social">
 
 #### Tools
 

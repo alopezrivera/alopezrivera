@@ -4,7 +4,7 @@ Spaceflight Dynamics MSc student at TU Delft.
 
 #### Major projects to which I've contributed
 
-- **[Tudat Space]([https://github.com/alopezrivera/mpl_plotter](https://docs.tudat.space/en/latest/)** Tudat is a platform and community for astrodynamics and space research. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tudat-team/tudat?style=social">
+- **[Tudat Space](https://docs.tudat.space/en/latest/)** Tudat is a platform and community for astrodynamics and space research. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tudat-team/tudat?style=social">
 
 #### Libraries
 

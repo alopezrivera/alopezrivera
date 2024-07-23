@@ -43,7 +43,7 @@ Spaceflight Dynamics MSc student at TU Delft.
 #### Tools
 
 
-- **[Seaman Emacs](https://github.com/alopezrivera/Seaman-Emacs)** Literate, layer-based Emacs configuration framework. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alopezrivera/Seaman-Emacs ?style=social">
+- **[Emacs Mirage](https://github.com/alopezrivera/emacs-mirage)** Literate, layer-based Emacs configuration framework. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alopezrivera/emacs-mirage ?style=social">
 
 
 - **[TU Delft AE Study Planner](https://github.com/alopezrivera/tudelft-ae-study-planner )** TU Delft Aerospace Engineering BSc GPA calculator and exam planner. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alopezrivera/tudelft-ae-study-planner ?style=social">

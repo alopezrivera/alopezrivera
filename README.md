@@ -36,9 +36,6 @@ MSc Spaceflight at TU Delft.
 
 - **[Sift](https://github.com/alopezrivera/sift)** Drifting object tracking program for use in search and rescue missions. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alopezrivera/sift?style=social">
 
-#### LaTeX
-
-- **[IAC 2024 LaTeX template](https://github.com/alopezrivera/IAC-2024-latex-template)** Unofficial LaTeX template for the 2024 International Astronautics Conference. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alopezrivera/IAC-2024-latex-template ?style=social">
 
 #### Tools
 
@@ -47,6 +44,12 @@ MSc Spaceflight at TU Delft.
 
 
 - **[TU Delft AE Study Planner](https://github.com/alopezrivera/tudelft-ae-study-planner )** TU Delft Aerospace Engineering BSc GPA calculator and exam planner. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alopezrivera/tudelft-ae-study-planner ?style=social">
+
+
+#### LaTeX
+
+- **[IAC 2024 LaTeX template](https://github.com/alopezrivera/IAC-2024-latex-template)** Unofficial LaTeX template for the 2024 International Astronautics Conference. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alopezrivera/IAC-2024-latex-template ?style=social">
+
 
 ## Stats
 

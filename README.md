@@ -6,7 +6,7 @@ MSc Spaceflight at TU Delft.
 
 - **[Tudat Space](https://docs.tudat.space/en/latest/)** State-of-the-art platform and community for astrodynamics and space research. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tudat-team/tudatpy?style=social">
 
-### Publications
+### Scientific papers
 
 - **[López Rivera et al. (2024), Design And Optimization Of Multi-Rendezvous Manoeuvres Based On Reinforcement Learning And Convex Optimization](https://alopezrivera.github.io/rl_and_scp_for_verifiable_mrto/)**
 

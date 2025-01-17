@@ -43,6 +43,7 @@ MSc Spaceflight at TU Delft.
 
 #### Tools
 
+- **[`gantt.xslx`](https://github.com/alopezrivera/gantt.xlsx)** Excel Gantt chart template. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alopezrivera/gantt.xlsx ?style=social">
 
 - **[Mirage](https://github.com/alopezrivera/mirage)** Literate, layer-based Emacs configuration framework. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alopezrivera/mirage ?style=social">
 

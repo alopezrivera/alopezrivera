@@ -54,7 +54,3 @@ MSc Spaceflight at TU Delft.
 ### Scientific papers
 
 - **[López Rivera et al. (2024), Design And Optimization Of Multi-Rendezvous Manoeuvres Based On Reinforcement Learning And Convex Optimization](https://alopezrivera.github.io/rl_and_scp_for_verifiable_mrto/)**
-
-### Stats
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=alopezrivera&rank_icon=percentile&show_icons=true&theme=transparent) ![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alopezrivera&layout=compact)

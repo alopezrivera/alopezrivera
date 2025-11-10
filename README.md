@@ -53,4 +53,5 @@ MSc Spaceflight at TU Delft.
 
 ### Scientific papers
 
+- **[López Rivera & Naeije (2025), Neural combinatorial optimization for multi-rendezvous mission design](https://alopezrivera.github.io/rl_and_scp_for_verifiable_mrto/)**
 - **[López Rivera et al. (2024), Design And Optimization Of Multi-Rendezvous Manoeuvres Based On Reinforcement Learning And Convex Optimization](https://alopezrivera.github.io/rl_and_scp_for_verifiable_mrto/)**

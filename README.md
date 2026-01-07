@@ -6,6 +6,11 @@ MSc Spaceflight at TU Delft.
 
 - **[Tudat Space](https://docs.tudat.space/en/latest/)** State-of-the-art platform and community for astrodynamics and space research. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/tudat-team/tudatpy?style=social">
 
+### Papers
+
+- **[López Rivera & Naeije (2025), Neural combinatorial optimization for multi-rendezvous mission design](https://alopezrivera.github.io/rl_and_scp_for_verifiable_mrto/)**
+- **[López Rivera et al. (2024), Design And Optimization Of Multi-Rendezvous Manoeuvres Based On Reinforcement Learning And Convex Optimization](https://alopezrivera.github.io/rl_and_scp_for_verifiable_mrto/)**
+
 ### Personal projects
 
 #### Libraries
@@ -50,8 +55,3 @@ MSc Spaceflight at TU Delft.
 #### LaTeX
 
 - **[IAC 2024 LaTeX template](https://github.com/alopezrivera/IAC-2024-latex-template)** Unofficial LaTeX template for the 2024 International Astronautics Conference. <img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alopezrivera/IAC-2024-latex-template ?style=social">
-
-### Scientific papers
-
-- **[López Rivera & Naeije (2025), Neural combinatorial optimization for multi-rendezvous mission design](https://alopezrivera.github.io/rl_and_scp_for_verifiable_mrto/)**
-- **[López Rivera et al. (2024), Design And Optimization Of Multi-Rendezvous Manoeuvres Based On Reinforcement Learning And Convex Optimization](https://alopezrivera.github.io/rl_and_scp_for_verifiable_mrto/)**

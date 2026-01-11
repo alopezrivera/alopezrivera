@@ -1,4 +1,4 @@
-MSc Spaceflight at TU Delft.
+Spaceflight dynamics @ The Exploration Company.
 
 ✉️ antonlopezr99 (gmail)
 
